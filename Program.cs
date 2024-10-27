@@ -77,6 +77,5 @@ namespace TextEditor
             Console.ReadLine();
             Menu();
         }
-
     }
 }
